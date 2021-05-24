@@ -65,5 +65,25 @@ h1{
      background-color: lightblue;
  }
 
+h4{
+    color:gray;
+    font-size: 25px;
+}
 
 
+.recommend{
+    color: white;
+    font-size: 25px;
+    height: 200px;
+    width:300px;
+    margin:20px;
+    margin-left: 0px;
+}
+
+#Recommend1{
+    background-image: url(../img/monitor.jpg);
+}
+
+#Recommend2{
+    background-image: url(../img/graph.jpg);
+}
