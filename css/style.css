@@ -1,0 +1,27 @@
+.logo{
+    width: 280px;
+    text-align:bottom;
+    margin-top: 100px;
+}
+
+.logo-div{
+    background-image: url(../img/pattern.png);
+    background-color: deepskyblue;
+    height: 180px;
+}
+
+h1{
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+
+.info{
+    color:gray;
+    margin-bottom: 25px;
+    font-size: 20px;
+ }
+
+ #blue{
+     color:deepskyblue;
+ }
+
